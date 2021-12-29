@@ -11,6 +11,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Detecting Cobalt Strike](https://yojimbosecurity.ninja/detecting-col/)
+- [Mitre T1558.003: Kerberoasting](https://yojimbosecurity.ninja/t1558-003-kerberoasting/)
+- [T1055: Process Injection and Sysmon](https://yojimbosecurity.ninja/t1055-process-injection-and-sysmon/)
+- [CVE-2020-0601: Chain of Fools/Curve Ball](https://yojimbosecurity.ninja/cve-2020-0601/)
+- [Setting up Cuckoo](https://yojimbosecurity.ninja/setting-up-cuckoo/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Youtube
