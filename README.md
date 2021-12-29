@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Elixir
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me david@yojimbosecurity.ninja
-
+- 📚 I’m a [Python Developer and Security Researcher](https://www.linkedin.com/in/david-johnson-614193ab/)
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Detecting Cobalt Strike](https://yojimbosecurity.ninja/detecting-col/)
