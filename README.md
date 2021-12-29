@@ -1,6 +1,6 @@
 # Yojimbo Security
 
-[![Yojimbo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yojimbosecurity)](https://github.com/anuraghazra/github-readme-stats)
+[![Yojimbo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yojimbosecurity&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ## Introduction
 
 - 👋 Hi, I’m @YojimboSecurity
@@ -9,11 +9,14 @@
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me david@yojimbosecurity.ninja
 
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## Youtube
+<!-- Youtube-POST-LIST:START -->
+<!-- Youtube-POST-LIST:END -->
 
 
 [website1]: https://yojimbosecurity.ninja
 [website2]: https://yojimbosecurity.com
-<!---
-YojimboSecurity/YojimboSecurity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
